@@ -15,7 +15,7 @@ resources:
     source: 'iamgauravsatija.Cybria'
     trigger:
       branches:
-      - master
+      - main
 
 steps:
 - script: echo Triggered by source pipeline 
